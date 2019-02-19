@@ -1,4 +1,8 @@
 // Code your JavaScript / jQuery solution here
+<<<<<<< HEAD
+=======
+// Code your JavaScript / jQuery solution here
+>>>>>>> 066791daf088444448693f140eb045b345287963
 var turn = 0
 var currentGame = 0
 const winners = [
@@ -96,4 +100,8 @@ function attachListeners() {
       doTurn(this);
     }
   });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 066791daf088444448693f140eb045b345287963
